@@ -38,7 +38,6 @@ pnpm dev
 # 或
 npm run dev
 ```
-访问 http://localhost:5173
 
 ### 5. 构建生产版本
 ```bash
