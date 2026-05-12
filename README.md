@@ -1,6 +1,6 @@
 # Illustration Portfolio
 
-一个精美的插画作品集网站，基于 React 18 + TypeScript + Vite + Tailwind CSS 构建，支持云端数据存储和跨设备同步。
+一个实用的插画作品集网站，基于 React 18 + TypeScript + Vite + Tailwind CSS 构建，支持云端数据存储和跨设备同步。
 
 🌐 **在线预览**: https://aurora-illustration-collection.netlify.app/
 
@@ -170,9 +170,7 @@ vercel
 2. 将 `dist` 文件夹拖拽到 https://app.netlify.com/drop
 
 ### GitHub Pages
-1. 上传代码到 GitHub
-2. 在仓库 Settings → Pages 中启用
-3. 选择 `gh-pages` 分支
+欢迎扩展上传~
 
 ---
 
