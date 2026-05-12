@@ -1,4 +1,4 @@
-# Aurora Earl - Illustration Portfolio
+# Illustration Portfolio
 
 一个精美的插画作品集网站，基于 React 18 + TypeScript + Vite + Tailwind CSS 构建，支持云端数据存储和跨设备同步。
 
@@ -126,8 +126,8 @@ const ADMIN_PASSWORD = 'your-password'; // 修改为您的密码
 ### 3. 封面信息（可选）
 
 **文件**: `src/components/CoverPage.tsx`
-- 作者名称：Aurora Earl
-- 封面副标题：Illustration Portfolio
+- 作者名称
+- 封面副标题
 
 **文件**: `src/components/Header.tsx`
 - 网站标题：插画集
@@ -148,7 +148,7 @@ export const compressImage = (file: File, maxWidth: number = 1200, quality: numb
 
 ## 🚀 部署到云平台
 
-### 火山引擎 IGA Pages（国内推荐）
+### 火山引擎 IGA Pages（可选）
 ```bash
 # 安装 IGA CLI
 npm install -g iga-cli
