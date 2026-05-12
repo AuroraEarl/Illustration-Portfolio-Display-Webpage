@@ -2,7 +2,7 @@
 
 一个精美的插画作品集网站，基于 React 18 + TypeScript + Vite + Tailwind CSS 构建，支持云端数据存储和跨设备同步。
 
-🌐 **在线预览**: https://aurora-earl-port-m8cjca9osq-wiul1y7nz2.preview.iga-pages.com
+🌐 **在线预览**: https://aurora-illustration-collection.netlify.app/
 
 ---
 
